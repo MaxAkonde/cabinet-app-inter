@@ -21,78 +21,78 @@
 <body class="Desktop index">
     <header class="header">
         <div class="container">
-            <nav class="nav"><a href="index.html" title="" class="logo"><img
+            <nav class="nav"><a href="#" title="" class="logo"><img
                         src="{{ asset('skins/default/images/logo.png') }}" alt="" /></a>
                 <ul class="nav-list">
-                    <li class="nav-item"><a href="avocat/expatriation-detachement/index.html">Expatriation</a>
+                    <li class="nav-item"><a href="#">Expatriation</a>
                         <ul class="nav-submenu">
                             <li class="nav-submenu-item"><a
-                                    href="avocat/expatriation-detachement/protection-sociale.html">Protection
+                                    href="#">Protection
                                     sociale</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/expatriation-detachement/regime-social.html">Régime social</a></li>
+                                    href="#">Régime social</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/expatriation-detachement/regime-fiscal.html">Régime Fiscal</a></li>
+                                    href="#">Régime Fiscal</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/expatriation-detachement/d%c3%a9tachement.html">Détachement</a></li>
+                                    href="#">Détachement</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="avocat/rupture-prise-d-acte/index.html">Rupture</a>
+                    <li class="nav-item"><a href="#">Rupture</a>
                         <ul class="nav-submenu">
-                            <li class="nav-submenu-item"><a href="avocat/rupture-prise-d-acte/prise-d%27acte.html">Prise
+                            <li class="nav-submenu-item"><a href="#">Prise
                                     d'acte</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/rupture-prise-d-acte/rupture-conventionnelle.html">Rupture
+                                    href="#">Rupture
                                     conventionnelle</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/rupture-prise-d-acte/resiliation-judiciaire.html">Résiliation
+                                    href="#">Résiliation
                                     judiciaire</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="avocat/licenciement-motifs-indemnites/index.html"> Licenciement</a>
+                    <li class="nav-item"><a href="#"> Licenciement</a>
                         <ul class="nav-submenu">
                             <li class="nav-submenu-item"><a
-                                    href="avocat/licenciement-motifs-indemnites/indemnites.html">Indemnités</a></li>
+                                    href="#">Indemnités</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/licenciement-motifs-indemnites/inaptitude.html">Inaptitude</a></li>
+                                    href="#">Inaptitude</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/licenciement-motifs-indemnites/motif-disciplinaire.html">Disciplinaire</a>
+                                    href="#">Disciplinaire</a>
                             </li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/licenciement-motifs-indemnites/motif-economique.html">Economique</a>
+                                    href="#">Economique</a>
                             </li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/licenciement-motifs-indemnites/motif-personnel.html">Motif
+                                    href="#">Motif
                                     Personnel</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="avocat/harcelement-moral-travail/index.html">Harcèlement</a>
+                    <li class="nav-item"><a href="#">Harcèlement</a>
                         <ul class="nav-submenu">
                             <li class="nav-submenu-item"><a
-                                    href="avocat/harcelement-moral-travail/prejudice-reparation.html">Réparation</a>
+                                    href="#">Réparation</a>
                             </li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/harcelement-moral-travail/porter-plainte.html">Porter Plainte</a></li>
+                                    href="#">Porter Plainte</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/harcelement-moral-travail/cadre-juridique.html">Cadre Juridique</a>
+                                    href="#">Cadre Juridique</a>
                             </li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/harcelement-moral-travail/legislation.html">Législation</a></li>
+                                    href="#">Législation</a></li>
                             <li class="nav-submenu-item"><a
-                                    href="avocat/harcelement-moral-travail/definition.html">Définition</a></li>
+                                    href="#">Définition</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a href="droit-social.html">Droit Social</a></li>
-                    <li class="nav-item"><a href="avocat/cabinet/index.html">Le cabinet</a>
+                    <li class="nav-item"><a href="#">Droit Social</a></li>
+                    <li class="nav-item"><a href="#">Le cabinet</a>
                         <ul class="nav-submenu">
-                            <li class="nav-submenu-item"><a href="avocat/cabinet/presse.html">Presse</a></li>
-                            <li class="nav-submenu-item"><a href="avocat/cabinet/acces.html">Accès</a></li>
-                            <li class="nav-submenu-item"><a href="avocat/cabinet/contact.html">Contact</a></li>
-                            <li class="nav-submenu-item"><a href="avocat/cabinet/mentions-legales.html">Mentions
+                            <li class="nav-submenu-item"><a href="#">Presse</a></li>
+                            <li class="nav-submenu-item"><a href="#">Accès</a></li>
+                            <li class="nav-submenu-item"><a href="#">Contact</a></li>
+                            <li class="nav-submenu-item"><a href="#">Mentions
                                     légales</a></li>
-                            <li class="nav-submenu-item"><a href="avocat/cabinet/prestations-tarifs.html">Tarifs</a>
+                            <li class="nav-submenu-item"><a href="#">Tarifs</a>
                             </li>
-                            <li class="nav-submenu-item"><a href="avocat/cabinet/equipe.html">L'equipe</a></li>
+                            <li class="nav-submenu-item"><a href="#">L'equipe</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -159,7 +159,7 @@
                                         alt="" /></div>
                                 <div class="subtitle-caption">Avocats expérimentés et compétents inscrits au Barreau de
                                     Paris <strong>Droit Social et Droit du Travail</strong></div><a
-                                    href="avocat/cabinet/contact.html" title="Nous contacter"
+                                    href="#" title="Nous contacter"
                                     class="btn btn-custom"><span>Nous contacter</span></a>
                             </div>
                         </div>
@@ -177,7 +177,7 @@
                                         alt="" /></div>
                                 <div class="subtitle-caption">Avocats expérimentés et compétents inscrits au Barreau de
                                     Paris <strong>Droit Social et Droit du Travail</strong></div><a
-                                    href="avocat/cabinet/contact.html" title="Nous contacter"
+                                    href="#" title="Nous contacter"
                                     class="btn btn-custom"><span>Nous contacter</span></a>
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                                         alt="" /></div>
                                 <div class="subtitle-caption">Avocats expérimentés et compétents inscrits au Barreau de
                                     Paris <strong>Droit Social et Droit du Travail</strong></div><a
-                                    href="avocat/cabinet/contact.html" title="Nous contacter"
+                                    href="#" title="Nous contacter"
                                     class="btn btn-custom"><span>Nous contacter</span></a>
                             </div>
                         </div>
@@ -209,9 +209,9 @@
             <div class="avis_google">
                 <h3>Cabinet A-P</h3>
                 <div class="lien_ext">
-                    <a href="https://goo.gl/maps/oTnrKa8A7akWN7cr9" target="_blank" class="btn-ggle">Site Web</a>
-                    <a href="https://goo.gl/maps/oTnrKa8A7akWN7cr9" target="_blank" class="btn-ggle">Itinéraire</a>
-                    <a href="https://goo.gl/maps/oTnrKa8A7akWN7cr9" target="_blank" class="btn-ggle">Enregister</a>
+                    <a href="#" target="_blank" class="btn-ggle">Site Web</a>
+                    <a href="#" target="_blank" class="btn-ggle">Itinéraire</a>
+                    <a href="#" target="_blank" class="btn-ggle">Enregister</a>
                 </div>
                 <div class="avis_block">
                     <div id="google_avis">
@@ -222,7 +222,7 @@
                     <p>Avocat spécialisé en droit social et<br /> droit du travail à Paris</p>
                 </div>
             </div>
-            <div class="item_slider_logo"><a href="avocat/cabinet/presse.html" title="Le figaro"><img
+            <div class="item_slider_logo"><a href="#" title="Le figaro"><img
                         src="{{ asset('skins/default/images/logo/le-figaro.png') }}" alt="Le figaro" /></a><a
                     href="avocat/cabinet/presse.html" title="L'express"><img
                         src="{{ asset('skins/default/images/logo/l-express.png') }}" alt="L'express" /></a><a
@@ -248,21 +248,21 @@
                         </div>
                         <div class="row">
                             <div class="col-6" data-aos="zoom-in"><a
-                                    href="avocat/expatriation-detachement/index.html" class="block-social"><span><i
+                                    href="#" class="block-social"><span><i
                                             class="icon icon-expatriation"></i>
                                         <h4>Expatriation</h4>
                                     </span></a></div>
-                            <div class="col-6" data-aos="zoom-in"><a href="avocat/rupture-prise-d-acte/index.html"
+                            <div class="col-6" data-aos="zoom-in"><a href="#"
                                     class="block-social"><span><i class="icon icon-rupture"></i>
                                         <h4>Rupture</h4>
                                     </span></a></div>
                             <div class="col-6" data-aos="zoom-in"><a
-                                    href="avocat/licenciement-motifs-indemnites/index.html"
+                                    href="#"
                                     class="block-social"><span><i class="icon icon-licenciement"></i>
                                         <h4> Licenciement</h4>
                                     </span></a></div>
                             <div class="col-6" data-aos="zoom-in"><a
-                                    href="avocat/harcelement-moral-travail/index.html" class="block-social"><span><i
+                                    href="#" class="block-social"><span><i
                                             class="icon icon-harcelement"></i>
                                         <h4>Harcèlement</h4>
                                     </span></a></div>
@@ -277,29 +277,29 @@
                             <h2><span>Le </span>Cabinet</h2>
                         </div>
                         <div class="row">
-                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="avocat/cabinet/presse.html"
+                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="#"
                                     class="block-social"><span><i class="icon icon-presse"></i>
                                         <h4>Presse</h4>
                                     </span></a></div>
-                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="avocat/cabinet/acces.html"
+                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="#"
                                     class="block-social"><span><i class="icon icon-acces"></i>
                                         <h4>Accès</h4>
                                     </span></a></div>
-                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="avocat/cabinet/contact.html"
+                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="#"
                                     class="block-social"><span><i class="icon icon-contact"></i>
                                         <h4>Contact</h4>
                                     </span></a></div>
                             <div class="col-6 col-md-4" data-aos="zoom-in"><a
-                                    href="avocat/cabinet/mentions-legales.html" class="block-social"><span><i
+                                    href="#" class="block-social"><span><i
                                             class="icon icon-m-legales"></i>
                                         <h4>Mentions légales</h4>
                                     </span></a></div>
                             <div class="col-6 col-md-4" data-aos="zoom-in"><a
-                                    href="avocat/cabinet/prestations-tarifs.html" class="block-social"><span><i
+                                    href="#" class="block-social"><span><i
                                             class="icon icon-tarifs"></i>
                                         <h4>Tarifs</h4>
                                     </span></a></div>
-                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="avocat/cabinet/equipe.html"
+                            <div class="col-6 col-md-4" data-aos="zoom-in"><a href="#"
                                     class="block-social"><span><i class="icon icon-equipe"></i>
                                         <h4>L'equipe</h4>
                                     </span></a></div>
@@ -550,7 +550,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="pase_actu"><a
-                                    href="http://www.leparisien.fr/societe/cigarette-electronique-au-bureau-une-interdiction-de-vapoter-pas-toujours-respectee-19-09-2019-8155230.php"
+                                    href="#"
                                     target="_blank"
                                     style="background-image: url(skins/default/images/cigarette_electronique.jpg); "><span>Cigarette
                                         électronique : au bureau, une interdiction de vapoter pas toujours
@@ -590,12 +590,12 @@
             <div class="row">
                 <div class="col-12 col-lg-4">
                     <div class="apropos">
-                        <a href="index.html" title="" class="logo logo-footer"><img
+                        <a href="#" title="" class="logo logo-footer"><img
                                 src="{{ asset('skins/default/images/logo.png') }}" alt="" /></a>
                         <h3><span>Cabinet d'avocats inscrits au Barreau de Paris</span></h3><!-- Cabinet A-P -->
                         <span>Une équipe d'avocats inscrits au Barreau de Paris expérimentés et compétents en droit
                             social et en droit du travail.</span>
-                        <a href="mentions-legales.html" class="mentions">Mentions légales </a>
+                        <a href="#" class="mentions">Mentions légales </a>
                     </div>
                 </div>
                 <div class="col-md-7 col-lg-5">
@@ -609,7 +609,7 @@
                                         <span class="post_month">Dec</span>
                                     </abbr>
                                     <div class="type_content">
-                                        <a href="https://www.village-justice.com/articles/actualites-jurisprudentielles-matiere-licenciement,26703.html"
+                                        <a href="#"
                                             target="_blank" class="content_inner">
                                             <h4>Actualités jurisprudentielles en matière de licenciement</h4>
                                             <div class="entry-content">Le licenciement se définit comme la mesure par
@@ -626,7 +626,7 @@
                                         <span class="post_month">Dec</span>
                                     </abbr>
                                     <div class="type_content">
-                                        <a href="https://www.village-justice.com/articles/pourquoi-pas-une-meilleure-indemnisation-des-licenciements-abusifs-grace,25916.html"
+                                        <a href="#"
                                             target="_blank" class="content_inner">
                                             <h4>Et pourquoi pas une meilleure indemnisation des licenciements abusifs
                                                 grâce à l’ordonnance Macron ?</h4>
@@ -650,7 +650,7 @@
         </div>
         <div class="copyrightFooter">
             <div class="container">
-                <span>© Copyright 2019 - Tout droit reservés &nbsp;&nbsp;| <a href="https://www.akisiweb.com/"
+                <span>© Copyright 2019 - Tout droit reservés &nbsp;&nbsp;| <a href="#"
                         target="_blank" rel="nofollow" class="logoagence"><img
                             src="{{ asset('skins/default/images/logo_Akisiweb.png') }}" alt="Akisiweb"></a></span>
             </div>
@@ -662,7 +662,7 @@
 <script src="{{ asset('skins/default/js/jquery.sticky.js') }}"></script>
 <script src="{{ asset('skins/default/js/slick.min.js') }}"></script>
 <script src="{{ asset('skins/default/js/custom.js') }}"></script>
-<link rel="stylesheet" href="js/leaflet/leaflet.css') }}" />
+<link rel="stylesheet" href="{{ asset('js/leaflet/leaflet.css') }}" />
 <script src="{{ asset('js/leaflet/leaflet.js') }}"></script>
 <script src="{{ asset('js/map.js') }}"></script>
 <script type="text/javascript">
