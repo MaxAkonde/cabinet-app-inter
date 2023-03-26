@@ -1,26 +1,26 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="banner-Droit" style="background-image: url(../../skins/default/images/img/bg-expatriation.jpg);">
+    <div class="banner-Droit" style="background-image: url({{ asset('skins/default/images/img/bg-expatriation.jpg') }});">
         <div class="captionSlider">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-8">
                         <div class="caption-block">
-                            <div class="ImgSldier"><img src="../../skins/default/images/logo-slider.png" alt="" />
+                            <div class="ImgSldier"><img src="{{ asset('skins/default/images/logo-slider.png') }}" alt="" />
                             </div>
                             <div class="subtitle-caption">Avocats expérimentés et compétents inscrits au Barreau de
                                 Paris <strong>Droit Social et Droit du Travail</strong></div><a
-                                href="../cabinet/contact.html" title="Nous contacter" class="btn btn-custom"><span>Nous
+                                href="#" title="Nous contacter" class="btn btn-custom"><span>Nous
                                     contacter</span></a>
                             <div class="avis_google">
                                 <h3>Cabinet A-P</h3>
                                 <div class="lien_ext">
-                                    <a href="https://goo.gl/maps/oTnrKa8A7akWN7cr9" target="_blank" class="btn-ggle">Site
+                                    <a href="#" target="_blank" class="btn-ggle">Site
                                         Web</a>
-                                    <a href="https://goo.gl/maps/oTnrKa8A7akWN7cr9" target="_blank"
+                                    <a href="#" target="_blank"
                                         class="btn-ggle">Itinéraire</a>
-                                    <a href="https://goo.gl/maps/oTnrKa8A7akWN7cr9" target="_blank"
+                                    <a href="2#" target="_blank"
                                         class="btn-ggle">Enregister</a>
                                 </div>
                                 <div class="avis_block">
@@ -42,7 +42,7 @@
         <div class="section-int">
             <div class="container">
                 <div class="row">
-                    <div class="d-none d-md-block col-md-6"><img src="../../skins/default/images/img/expatriation-photo.png"
+                    <div class="d-none d-md-block col-md-6"><img src="{{ asset('skins/default/images/img/expatriation-photo.png') }}"
                             alt="" /></div>
                     <div class="col-md-6">
                         <div class="item-sect-int">
@@ -86,7 +86,7 @@
                 <div class="spacer-interne"></div>
             </div>
         </div>
-        <div class="section-int-art">
+        {{-- <div class="section-int-art">
             <div class="container">
                 <div class="block_article">
                     <h2 class="text-center">Nos articles</h2>
@@ -112,6 +112,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
     </div>
 @endsection

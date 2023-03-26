@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="banner-interne" style="background-image: url(../../skins/default/images/img/bg-rupture.jpg);"></div>
+    <div class="banner-interne" style="background-image: url({{ asset('skins/default/images/img/bg-rupture.jpg') }});"></div>
     <div class="wrap">
         <div id="PageArt" class="section-int">
             <div class="container">

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="banner-interne" style="background-image: url(../../skins/default/images/img/bg-expatriation.jpg);">
+<div class="banner-interne" style="background-image: url({{ asset('skins/default/images/img/bg-expatriation.jpg') }});">
     <div class="container">
         <div class="caption-banner">
             <h1>Expatriation</h1>
