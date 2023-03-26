@@ -22,27 +22,27 @@
                                 judiciaire</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a href="#"> Licenciement</a>
+                <li class="nav-item"><a href="{{ route('licenciement') }}"> Licenciement</a>
                     <ul class="nav-submenu">
-                        <li class="nav-submenu-item"><a href="#">Indemnités</a></li>
-                        <li class="nav-submenu-item"><a href="#">Inaptitude</a></li>
-                        <li class="nav-submenu-item"><a href="#">Disciplinaire</a>
+                        <li class="nav-submenu-item"><a href="{{ route('indemnite') }}">Indemnités</a></li>
+                        <li class="nav-submenu-item"><a href="{{ route('inaptitude') }}">Inaptitude</a></li>
+                        <li class="nav-submenu-item"><a href="{{ route('disciplinaire') }}">Disciplinaire</a>
                         </li>
-                        <li class="nav-submenu-item"><a href="#">Economique</a>
+                        <li class="nav-submenu-item"><a href="{{ route('economique') }}">Economique</a>
                         </li>
-                        <li class="nav-submenu-item"><a href="#">Motif
+                        <li class="nav-submenu-item"><a href="{{ route('personnel') }}">Motif
                                 Personnel</a></li>
                     </ul>
                 </li>
-                <li class="nav-item"><a href="#">Harcèlement</a>
+                <li class="nav-item"><a href="{{ route('harcelement') }}">Harcèlement</a>
                     <ul class="nav-submenu">
-                        <li class="nav-submenu-item"><a href="#">Réparation</a>
+                        <li class="nav-submenu-item"><a href="{{ route('reparation') }}">Réparation</a>
                         </li>
-                        <li class="nav-submenu-item"><a href="#">Porter Plainte</a></li>
-                        <li class="nav-submenu-item"><a href="#">Cadre Juridique</a>
+                        <li class="nav-submenu-item"><a href="{{ route('plainte') }}">Porter Plainte</a></li>
+                        <li class="nav-submenu-item"><a href="{{ route('juridique') }}">Cadre Juridique</a>
                         </li>
-                        <li class="nav-submenu-item"><a href="#">Législation</a></li>
-                        <li class="nav-submenu-item"><a href="#">Définition</a></li>
+                        <li class="nav-submenu-item"><a href="{{ route('legislation') }}">Législation</a></li>
+                        <li class="nav-submenu-item"><a href="{{ route('definition') }}">Définition</a></li>
                     </ul>
                 </li>
                 <li class="nav-item"><a href="#">Droit Social</a></li>

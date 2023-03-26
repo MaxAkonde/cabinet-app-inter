@@ -41,4 +41,52 @@ class PageController extends Controller
     public function resiliation_judiciaire() {
         return view('resiliation_judiciaire');
     }
+
+    public function licenciement() {
+        return view('licenciement');
+    }
+
+    public function indemnite() {
+        return view('indemnite');
+    }
+
+    public function inaptitude() {
+        return view('inaptitude');
+    }
+
+    public function disciplinaire() {
+        return view('disciplinaire');
+    }
+
+    public function economique() {
+        return view('economique');
+    }
+
+    public function personnel() {
+        return view('personnel');
+    }
+
+    public function harcelement() {
+        return view('harcelement');
+    }
+
+    public function reparation() {
+        return view('reparation');
+    }
+
+    public function plainte() {
+        return view('plainte');
+    }
+
+    public function juridique() {
+        return view('juridique');
+    }
+
+    public function legislation() {
+        return view('legislation');
+    }
+
+    public function definition() {
+        return view('definition');
+    }
 }
